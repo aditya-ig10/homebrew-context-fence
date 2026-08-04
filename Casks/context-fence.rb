@@ -1,6 +1,6 @@
 cask "context-fence" do
   version "1.0.0-beta"
-  sha256 "d1c59e7c6935a87af6189db25b89707ff89cf5804475156597fe94d1d5267087"
+  sha256 "071063114a0729e5ff9f9633893fdf7b3eb906fdf302eace899a98a51f4f6961"
 
   url "https://github.com/aditya-ig10/homebrew-context-fence/releases/download/v#{version}/Context-Fence-#{version}-universal.dmg"
   name "Context Fence"
