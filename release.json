@@ -15,7 +15,7 @@
       "sub": "NSIS installer, per-user install — the full app, no store required.",
       "size": "113.8 mb",
       "sha256": "5769ffaddf362cdef20c1b14e4dc14f5a504d2a211c138430ce4983cd8422db6",
-      "href": "https://github.com/aditya-ig10/homebrew-context-fence/releases/download/v1.1.8/Context-Fence-Setup-1.1.7-x64.exe",
+      "href": "https://github.com/aditya-ig10/context-fence-windows/releases/download/v1.1.8/Context-Fence-Setup-1.1.7-x64.exe",
       "unsigned": "unsigned · expect a SmartScreen prompt — more info → run anyway, then verify the sha256."
     },
     "brew": {
