@@ -1,0 +1,26 @@
+{
+  "version": "1.1.8",
+  "released": "aug 16, 2026",
+  "platforms": {
+    "mac": {
+      "label": "macOS · universal dmg",
+      "sub": "Universal dmg for Intel and Apple silicon — drag to /Applications.",
+      "size": "261.2 mb",
+      "sha256": "3d7db7c85c196a852bd1baae5c143a56443bac85205fa20b232446457edae08a",
+      "href": "https://github.com/aditya-ig10/homebrew-context-fence/releases/download/v1.1.8/Context-Fence-1.1.8-universal.dmg",
+      "unsigned": "unsigned · ad-hoc signed, not notarized — if Gatekeeper blocks it, right-click → open."
+    },
+    "windows": {
+      "label": "Windows x64",
+      "sub": "NSIS installer, per-user install — the full app, no store required.",
+      "size": "113.8 mb",
+      "sha256": "5769ffaddf362cdef20c1b14e4dc14f5a504d2a211c138430ce4983cd8422db6",
+      "href": "https://github.com/aditya-ig10/context-fence/releases/download/v1.1.8/Context-Fence-Setup-1.1.7-x64.exe",
+      "unsigned": "unsigned · expect a SmartScreen prompt — more info → run anyway, then verify the sha256."
+    },
+    "brew": {
+      "install": "brew install aditya-ig10/context-fence/context-fence",
+      "update": "brew update && brew upgrade --cask context-fence"
+    }
+  }
+}
