@@ -1,6 +1,6 @@
 cask "context-fence" do
-  version "1.1.9-a"
-  sha256 "f94fc8104af80e3aa274679e3a9cc926970d0ca51b2afad4acd27d0e03b02dc8"
+  version "1.1.9-b"
+  sha256 "3172c3d31edea10dba6f945e923d6ea72eb2e5ecf07712dca93233c7cd2d5e5e"
 
   url "https://github.com/aditya-ig10/context-fence-releases/releases/download/v#{version}/Context-Fence-#{version}-universal.dmg"
   name "Context Fence"
