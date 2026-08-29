@@ -1,13 +1,13 @@
 {
-  "version": "1.1.9-c",
-  "released": "aug 23, 2026",
+  "version": "2.0.0",
+  "released": "aug 29, 2026",
   "platforms": {
     "mac": {
       "label": "macOS · universal dmg",
       "sub": "Universal dmg for Intel and Apple silicon — drag to /Applications.",
       "size": "264.7 mb",
-      "sha256": "c1105f72954e1af0dd395dec97e18bcd6c898c969d6ea070d1b63591eca481eb",
-      "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v1.1.9-c/Context-Fence-1.1.9-c-universal.dmg",
+      "sha256": "15cfe5ea2099e0c6cd77f6c3c5be157f3256a2eb0d693ab919114179e67500b1",
+      "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v2.0.0/Context-Fence-2.0.0-universal.dmg",
       "unsigned": "unsigned · ad-hoc signed, not notarized — if Gatekeeper blocks it, right-click → open."
     },
     "windows": {
