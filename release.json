@@ -6,7 +6,7 @@
       "label": "macOS · universal dmg",
       "sub": "Universal dmg for Intel and Apple silicon — drag to /Applications.",
       "size": "264.7 mb",
-      "sha256": "15cfe5ea2099e0c6cd77f6c3c5be157f3256a2eb0d693ab919114179e67500b1",
+      "sha256": "e823802eb8ea7e370101ad378bc41e6b3d56e3a52b032232f0e9c42f378291f5",
       "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v2.0.0/Context-Fence-2.0.0-universal.dmg",
       "unsigned": "unsigned · ad-hoc signed, not notarized — if Gatekeeper blocks it, right-click → open."
     },
