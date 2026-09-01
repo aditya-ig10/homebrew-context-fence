@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "released": "aug 29, 2026",
+  "released": "sep 1, 2026",
   "platforms": {
     "mac": {
       "label": "macOS · universal dmg",
@@ -13,9 +13,9 @@
     "windows": {
       "label": "Windows x64",
       "sub": "NSIS installer, per-user install — the full app, no store required.",
-      "size": "113.8 mb",
-      "sha256": "da18bc2def9dfef0c6edb1d0a70dffb714bbf02d9fc6d3d5be879cffe132535b",
-      "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v1.1.9-c/Context-Fence-Setup-1.1.9-c-x64.exe",
+      "size": "114.4 mb",
+      "sha256": "f176ce67bfbd07e9de2c782fdb4a40b913dbd0a9c65d19a98d7606fb68740ccc",
+      "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v2.0.0/Context-Fence-Setup-2.0.0-x64.exe",
       "unsigned": "signed · Authenticode (developer cert) — SmartScreen may still prompt until reputation builds"
     },
     "brew": {
